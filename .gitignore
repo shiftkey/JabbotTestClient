@@ -11,3 +11,4 @@ deploy/*
 packages/
 *.log
 *ncrunch*
+_ReSharper*
